@@ -11,16 +11,9 @@ MUKTI Open Source &amp; Cybersecurity Club – MSRIT — Core Team Member (2026 
 <summary><b>📌 Top projects</b></summary>
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top"><sub>DEVELOPER TOOLS</sub><h3><a href="https://github.com/themdmohsin/Scaffold">Scaffold</a></h3>Connects Git diffs to project tasks and decisions so developers and AI agents share context.</td>
-<td width="50%" valign="top"><sub>NATURAL LANGUAGE PROCESSING</sub><h3><a href="https://github.com/themdmohsin/kannada_sentiment_analyser">Kannada Sentiment Analysis</a></h3>Combines MuRIL BERT and TF-IDF to classify Kannada text into six emotions.</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><sub>ROAD SAFETY</sub><h3><a href="https://github.com/themdmohsin/SafeRoute">SafeRoute</a></h3>Combines hazard reports, ride tracking and analytics in a full-stack road safety app.</td>
-<td width="50%" valign="top"><sub>CYBERSECURITY EDUCATION</sub><h3><a href="https://github.com/themdmohsin/Incident-Response-Training-Game">Incident Response Training Game</a></h3>A Python game for practicing incident response.</td>
-</tr>
-</table>
+<p align="center"><img src="./featured-projects.svg" width="100%" alt="Featured projects: Scaffold, Kannada Sentiment Analysis, SafeRoute, Incident Response Training Game" /></p>
+
+<p align="center"><a href="https://github.com/themdmohsin/Scaffold">Scaffold</a> · <a href="https://github.com/themdmohsin/kannada_sentiment_analyser">Kannada Sentiment Analysis</a> · <a href="https://github.com/themdmohsin/SafeRoute">SafeRoute</a> · <a href="https://github.com/themdmohsin/Incident-Response-Training-Game">Incident Response Training Game</a></p>
 
 </details>
 
