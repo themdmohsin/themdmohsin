@@ -11,9 +11,9 @@ MUKTI Open Source &amp; Cybersecurity Club – MSRIT — Core Team Member (2026 
 <summary><b>📌 Top projects</b></summary>
 <br/>
 
-<p align="center"><img src="./featured-projects.svg" width="100%" alt="Featured projects: Scaffold, Kannada Sentiment Analysis, SafeRoute, Incident Response Training Game" /></p>
+<p align="center"><img src="./featured-projects.svg" width="100%" alt="Featured projects: Scaffold, Kannada Sentiment Analysis, SafeRoute, Git It Done" /></p>
 
-<p align="center"><a href="https://github.com/themdmohsin/Scaffold">Scaffold</a> · <a href="https://github.com/themdmohsin/kannada_sentiment_analyser">Kannada Sentiment Analysis</a> · <a href="https://github.com/themdmohsin/SafeRoute">SafeRoute</a> · <a href="https://github.com/themdmohsin/Incident-Response-Training-Game">Incident Response Training Game</a></p>
+<p align="center"><a href="https://github.com/themdmohsin/Scaffold">Scaffold</a> · <a href="https://github.com/themdmohsin/kannada_sentiment_analyser">Kannada Sentiment Analysis</a> · <a href="https://github.com/themdmohsin/SafeRoute">SafeRoute</a> · <a href="https://github.com/themdmohsin/git-it-done">Git It Done</a></p>
 
 </details>
 
